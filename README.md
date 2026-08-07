@@ -9,7 +9,7 @@ Repositório destinado aos meus estudos sobre Fundamentos de Banco de Dados, uti
 
 Construir uma base sólida em Banco de Dados, entendendo não apenas como escrever consultas SQL, mas também como os bancos de dados funcionam, como seus dados são organizados e como projetar estruturas eficientes.
 
-Principais objetivos
+## Principais objetivos
 • Entender os fundamentos de bancos de dados
 • Diferenciar banco de dados, SGBD e sistema de informação
 • Compreender bancos relacionais e não relacionais
