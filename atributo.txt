@@ -1,0 +1,91 @@
+Atributos
+
+• Os atributos descrevem características da
+entidade, como por exemplo: fabricante, modelo,
+copr, placa, etc.
+
+• Os atributos possuem um tipo de dados (domínio)
+nome e valor específico.
+
+---
+
+Representando Atributos
+
+• Os atributos podem ser representados por uma elipse
+contendo o seu nome, ligada à entidade que qualifica.
+
+• Opcionalmente, podemos representar um atributo
+apenas pelo seu nome ligado à entidade, sem utilizar a 
+elipse.
+
+---
+
+Tipos de Atributos 
+
+Os atributos podem ser de vários tipos, tais como:
+
+• Simples
+• Composto
+• Multivalorado
+• Determinante 
+• Identificador
+entre outros.
+
+---
+
+Atributo simples/atômico
+
+Não possui características especiais, e são
+indivisiveis.
+
+Ex: Nome da empresa, CPF, CNPJ
+
+---
+
+Atributo Composto 
+
+É formado por itens menores; pode ser subdividido
+em outros atributos.
+
+Ex: Endereço da empresa.
+
+         > Rua   
+Endereço > Cep
+         > Bairro
+
+---
+
+Atributo Multivalorado
+
+Pode conter mais de um valor para um mesmo 
+registro(informação).
+
+Ex: Telefone da empresa.
+
+---
+
+Atributo Determinante 
+
+Define de forma única as instâncias de uma 
+entidade.
+Não podem existir duas instâncias com o 
+mesmo valor nesse atributo.
+
+Ex: CNPJ da empresa, Código de produto.
+
+---
+
+Atributo Identificadores('Chaves') 
+
+Uma chave identifica uma instância específica na classe de entidade.
+Ex: CPF, CódigoProduto, Matrícula, ID_Setor
+
+As chaves podem ser únicas ou não-únicas: 
+• Únicas: O valor dos dados da chave é unico na 
+entidade 
+
+• Não-unica: Usada para agrupar instâncias de 
+classe em categorias.
+
+As chaves podem ser compostas, consistindo de dois
+ou mais atributos combinados.
